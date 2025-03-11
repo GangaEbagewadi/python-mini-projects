@@ -2,6 +2,7 @@
 "A collection of small Python projects covering games, automation, AI, and more. Projects include a Snake Game, Chatbot, Voice Assistant, and various mini apps."
 
 📌 Projects Included
+
 🔹 1. Chatbot (Using Gemini API)
 Uses Google Gemini API for intelligent responses.
 Supports natural language understanding and dynamic replies.
