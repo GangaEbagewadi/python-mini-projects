@@ -40,9 +40,9 @@ snake_game/
 
 ├── screenshots/          # Store game screenshots here
 
-│   ├── game_screenshot1.png
+│   ├── playing.png
 
-│   ├── game_screenshot2.png
+│   ├── out.png
 
 ├── snake.py              # Your game script
 
