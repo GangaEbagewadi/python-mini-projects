@@ -30,13 +30,26 @@ python snake.py
 
 snake_game/
 
-│── images/              # Contains snake head, body, and apple images
+├── assets/               # Store images here
 
-│── snake_game.py        # Main game script
+│   ├── snake_head.png
 
-│── requirements.txt     # Required dependencies
+│   ├── snake_body.png
 
-│── README.md            # Project documentation
+│   ├── apple.png
+
+├── screenshots/          # Store game screenshots here
+
+│   ├── game_screenshot1.png
+
+│   ├── game_screenshot2.png
+
+├── snake.py              # Your game script
+
+├── requirements.txt      # Dependencies file
+
+├── README.md             # Documentation
+
 
 🎯 How to Play
 
