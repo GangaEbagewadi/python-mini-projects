@@ -1,4 +1,4 @@
-<h1>**🤖 AI Chatbot with Smart To-Do List & PDF Summarization**</h1>
+<h1>🤖 AI Chatbot with Smart To-Do List & PDF Summarization</h1>
 
 ***🚀 A Streamlit-powered AI chatbot using Google Gemini API with features like a Smart To-Do List and PDF Summarization.***
 ____________________________________________________________________________________________________________________________________________________________________
