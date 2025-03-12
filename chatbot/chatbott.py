@@ -1,11 +1,3 @@
-#how to run this code
-
-# cd "C:\Users\sagar\Downloads\New folder"
-#$env:GOOGLE_API_KEY = "AIzaSyDe0fw8Xj-nG_vEG13-7jFUWIP0B4BYUD0"
-#echo $env:GOOGLE_API_KEY
-#streamlit run chatbott.py
-
-
 #pip install google-generativeai
 
 # import os
